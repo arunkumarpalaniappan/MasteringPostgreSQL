@@ -1,0 +1,26 @@
+{
+  "name": "masteringpostgresql",
+  "version": "0.0.1",
+  "description": "Queries based on the book Mastering PostgreSQL in Application Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunkumarpalaniappan/MasteringPostgreSQL.git"
+  },
+  "keywords": [
+    "Mastering",
+    "PostgreSQL",
+    "in",
+    "Application",
+    "Development"
+  ],
+  "author": "Arunkumar Palaniappan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arunkumarpalaniappan/MasteringPostgreSQL/issues"
+  },
+  "homepage": "https://github.com/arunkumarpalaniappan/MasteringPostgreSQL#readme"
+}
